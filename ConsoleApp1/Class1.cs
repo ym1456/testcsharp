@@ -39,5 +39,6 @@ class Class1
 			Console.WriteLine(n.Name + " , " + n.Height);
 		}
 		int a = 0;
+		Console.Write("HI");
 	}
 }
