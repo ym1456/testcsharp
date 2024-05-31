@@ -40,5 +40,6 @@ class Class1
 		}
 		int a = 0;
 		Console.Write("HI");
+		Console.Write("Im Master");
 	}
 }
